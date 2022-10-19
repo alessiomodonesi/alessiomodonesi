@@ -26,5 +26,5 @@
 </h1>
 
 <h4 align="center">
-  How to reach me: <a href="#" color="blue">alessiomodo2004@gmail.com</a>
+  How to reach me: <a href="">alessiomodo2004@gmail.com</a>
 </h4>
