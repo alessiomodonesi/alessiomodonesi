@@ -26,6 +26,6 @@
 </h1>
 
 <h4 align="center">
-  How to reach me: alessiomodo2004@gmail.com
+  How to reach me:<a>alessiomodo2004@gmail.com</a>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h4>
