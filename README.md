@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" alt="Apple" width="40" height="40"/>
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pngitem.com%2Fpimgs%2Fm%2F59-590506_apple-logo-png-apple-white-icon-png-transparent.png&imgrefurl=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FbiiTJh_apple-logo-png-apple-white-icon-png-transparent%2F&tbnid=IugGZxMhL5kZNM&vet=12ahUKEwjJ2O2Ztuz6AhXxlv0HHdIvCwMQMygNegUIARDWAQ..i&docid=5lSfHgeALdpSEM&w=860&h=850&q=apple%20white%20logo&ved=2ahUKEwjJ2O2Ztuz6AhXxlv0HHdIvCwMQMygNegUIARDWAQ" title="Apple" alt="Apple" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
