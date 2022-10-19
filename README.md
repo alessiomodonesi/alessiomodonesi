@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/4N5ddOOJJ7gtKTgNac/giphy.gif" width="200" border-radius="50"/>
+  <img src="https://media.giphy.com/media/tIPfItk3TqgsU/giphy.gif" width="200" border-radius="50"/>
 </div>
 
 <div id="badges" align="center">
@@ -19,7 +19,9 @@
     <img src="https://komarev.com/ghpvc/?username=alessiomodonesi&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
+
 <hr/>
+
 <div id="language" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#"  alt="C#" width="40" height="40"/>&nbsp;
