@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif&style=border-radius=50" width="300"/>
 </div>
 
 <div id="badges" align="center">
@@ -16,7 +16,7 @@
 
 <div id="counter" align="center">
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=alessiomodonesi&style=flat-square&color=green" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=alessiomodonesi&style=flat-square&color=red" alt=""/>
   </a>
 </div>
 
