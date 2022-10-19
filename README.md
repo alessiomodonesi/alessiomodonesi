@@ -15,7 +15,7 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="your-twitter-URL">
+  <a href="#">
     <img src="https://komarev.com/ghpvc/?username=alessiomodonesi&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
@@ -26,5 +26,5 @@
 </h1>
 
 <h4 align="center">
-  How to reach me: <a href="">alessiomodo2004@gmail.com</a>
+  How to reach me: <a href="#">alessiomodo2004@gmail.com</a>
 </h4>
