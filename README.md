@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="[https://giphy.com/embed/RbDKaczqWovIugyJmW](https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW)" width="480" height="270">
+    <img src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW" width="480" height="270">
 </div>
 
 <div id="badges" align="center">
