@@ -16,7 +16,7 @@
 
 <div id="counter" align="center">
   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=alessiomodonesi&style=flat-square&color=blue" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=alessiomodonesi&style=flat-square&color=green" alt=""/>
   </a>
 </div>
 
