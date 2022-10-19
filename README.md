@@ -17,8 +17,10 @@
 <img src="https://komarev.com/ghpvc/?username=alessiomodonesi&style=flat-square&color=blue" alt=""/>
 
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-How to reach me: alessiomodo2004@gmail.com
+<h3>
+  How to reach me: alessiomodo2004@gmail.com
+</h3>
