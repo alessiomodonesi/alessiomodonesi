@@ -27,8 +27,8 @@
 <br />
 
 <div id="language" align="center">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40"
-        height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C"
+         width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#"
         width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" title="DotNet" alt="DotNet"
@@ -43,20 +43,20 @@
         width="35" height="35" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript"
          width="35" height="35" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS"
-        width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS3" alt="CSS"
+        width="35" height="35" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BootStrap" alt="BootStrap"
          width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress"
-         width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="wordpress" alt="wordpress"
+         width="35" height="35" />
   <br />
   <br />
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux"
-        width="40" height="40" />
+        width="35" height="35" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg" title="Debian" alt="Debian"
-         width="40" height="40" />
+         width="35" height="35" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="RaspberryPi" alt="RaspberryPi" 
-         width="40" height="40" />
+         width="35" height="35" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git"
         width="35" height="35"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg" title="filezilla" alt="filezilla"
