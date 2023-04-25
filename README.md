@@ -31,6 +31,8 @@
          width="40" height="40" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#"
         width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python"
+        width="45" height="45" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="php" alt="php"
         width="45" height="45" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL"
