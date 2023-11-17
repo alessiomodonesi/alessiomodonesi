@@ -34,16 +34,16 @@
                      title="C#" alt="C#" width="40" height="40" />
             </td>
             <td>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" 
-                     title="python" alt="python" width="42" height="42" />
+                <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"
+                     title="python" alt="python" width="40" height="40" />
+            </td>
+            <td>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" 
+                     title="java" alt="java" width="42" height="42" />
             </td>
             <td>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"
                      title="php" alt="php" width="45" height="45" />
-            </td>
-            <td>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
-                     title="MySQL" alt="MySQL" width="40" height="40" />
             </td>
         </tr>
         <tr>
@@ -78,9 +78,9 @@
                      title="RaspberryPi" alt="RaspberryPi" width="42" height="42" />
             </td>
             <td>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain-wordmark.svg"
-                     title="Debian" alt="Debian" width="40" height="40" />
-            </td>            
+                <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"
+                     title="MySQL" alt="MySQL" width="40" height="40" />
+            </td>          
             <td>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"
                      title="VsCode" alt="VsCode" width="35" height="35" />
