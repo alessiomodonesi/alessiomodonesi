@@ -42,7 +42,7 @@
                      title="java" alt="java" width="42" height="42" />
             </td>
             <td>
-                <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg"
+                <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"
                      title="php" alt="php" width="45" height="45" />
             </td>
         </tr>
