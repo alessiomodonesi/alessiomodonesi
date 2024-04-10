@@ -82,7 +82,5 @@
 </div>
 
 <div id="counter" align="center">
-    <a>
-        <img src="https://komarev.com/ghpvc/?username=alessiomodonesi&style=for-the-badge&color=red" alt="Counter Badge" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=alessiomodonesi&style=for-the-badge&color=red" alt="Counter Badge"/>
 </div>
