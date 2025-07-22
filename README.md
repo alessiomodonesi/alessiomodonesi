@@ -3,7 +3,7 @@
         <tr>
             <td>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"
-                     title="C" alt="C" width="40" height="40" />
+                     title="C" alt="C" width="35" height="35" />
             </td>
             <td>
                 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg"
