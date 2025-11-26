@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#no-click">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,mysql" alt="Programming" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,postgresql,php" alt="Programming" />
   </a>
   <br/>
   <a href="#no-click">
