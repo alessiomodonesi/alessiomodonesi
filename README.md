@@ -4,10 +4,10 @@
   </a>
   <br/>
   <a href="#no-click">
-    <img src="https://skillicons.dev/icons?i=html,bootstrap,js,jquery,css,postgresql" alt="Site Build" />
+    <img src="https://skillicons.dev/icons?i=html,bootstrap,js,jquery,css,postgresql,cmake" alt="Site Build" />
   </a>
   <br/>
   <a href="#no-click">
-    <img src="https://skillicons.dev/icons?i=linux,docker,raspberrypi,cmake,vscode,androidstudio,git" alt="Other" />
+    <img src="https://skillicons.dev/icons?i=apple,linux,docker,raspberrypi,vscode,androidstudio,git" alt="Other" />
   </a>
 </div>
