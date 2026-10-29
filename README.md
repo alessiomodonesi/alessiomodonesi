@@ -33,6 +33,10 @@ I'm a Computer Engineering Master's student at the **University of Padua**, focu
 > **Embedded Systems Lab** · *C, STM32*
 * Real-time control system and laboratory projects developed for the Embedded Real-Time Control course on STM32 microcontrollers.
 
+#### ⏱️ [PLC-Programming](https://github.com/alessiomodonesi/PLC-Programming)
+> **Industrial Automation Lab** · *AWL, Siemens*
+* Real-time control system and laboratory projects developed for the Embedded Real-Time Control course on STM32 microcontrollers.
+
 #### 📡 [LiDAR-Project](https://github.com/alessiomodonesi/LiDAR-Project)
 > **Programming Course Project** · *C++*
 * Midterm programming assignment focusing on data processing and algorithms for LiDAR sensors.
