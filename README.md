@@ -29,7 +29,7 @@ I'm a Computer Engineering Master's student at the **University of Padua**, focu
 * Edge vision pipeline for an underwater stereoscopic camera module on a Raspberry Pi 5.
 * Features synchronized image capture, real-time image enhancement (CLAHE + Laplacian sharpening), and 3D object detection with metric range estimation.
 
-#### ⏱️ [EmbeddedRTC-Group10](https://github.com/alessiomodonesi/EmbeddedRTC-Group10)
+#### ⏱️ [EmbeddedRTC-Lab](https://github.com/alessiomodonesi/EmbeddedRTC-Lab)
 > **Embedded Systems Lab** · *C, STM32*
 * Real-time control system and laboratory projects developed for the Embedded Real-Time Control course on STM32 microcontrollers.
 
