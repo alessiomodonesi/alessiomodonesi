@@ -8,15 +8,15 @@ I'm a Computer Engineering Master's student at the **University of Padua**, focu
 
 <div align="center">
   <a href="#no-click">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,js,php,matlab,bash" alt="Linguaggi di Programmazione & Scripting" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,kotlin,php,matlab" alt="Linguaggi di Programmazione & Scripting" />
   </a>
   <br/>
   <a href="#no-click">
-    <img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,cmake,androidstudio" alt="Robotica, Embedded & Framework" />
+    <img src="https://skillicons.dev/icons?i=ros,arduino,raspberrypi,cmake,latex,bash" alt="Robotica, Embedded & Framework" />
   </a>
   <br/>
   <a href="#no-click">
-    <img src="https://skillicons.dev/icons?i=linux,apple,git,docker,postgres,vscode,latex" alt="Ambiente di Sviluppo, OS & Strumenti" />
+    <img src="https://skillicons.dev/icons?i=apple,linux,git,docker,postgres,vscode,androidstudio" alt="Ambiente di Sviluppo, OS & Strumenti" />
   </a>
 </div>
 
