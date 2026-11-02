@@ -7,16 +7,19 @@ I'm a Computer Engineering Master's student at the **University of Padua**, focu
 ### 🛠️ Tech Stack
 
 <div align="center">
+  <!-- Riga 1: Linguaggi di Programmazione -->
   <a href="#no-click">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,python,kotlin,php,ros" alt="Languages & ROS" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,kotlin,js,matlab" alt="Linguaggi di Programmazione" />
   </a>
   <br/>
+  <!-- Riga 2: IDE, Strumenti di Build & Piattaforme Hardware -->
   <a href="#no-click">
-    <img src="https://skillicons.dev/icons?i=html,bootstrap,js,jquery,css,postgresql,cmake" alt="Web & Build Tools" />
+    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,cmake,raspberrypi,arduino,latex" alt="IDE, Tools & Hardware" />
   </a>
   <br/>
+  <!-- Riga 3: Sistemi Operativi, Container, DB & Shell -->
   <a href="#no-click">
-    <img src="https://skillicons.dev/icons?i=apple,linux,docker,raspberrypi,vscode,androidstudio,git" alt="Platforms & Tools" />
+    <img src="https://skillicons.dev/icons?i=linux,apple,docker,postgres,bash" alt="Sistemi Operativi, DevOps & DB" />
   </a>
 </div>
 
